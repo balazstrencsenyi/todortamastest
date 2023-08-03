@@ -114,7 +114,8 @@ const handleSignInClick = () => {
 
   return (
     <>
-   <img src="background.jpeg" id="header-pic" alt="" />
+   <img src="../src/images/background.jpeg" id="header-pic" alt="" />
+
 
 
       <div className="homeContainer">
